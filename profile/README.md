@@ -4,7 +4,7 @@
 <br/>
 
 > [!TIP]
-> *Open Source Software is a type of computer software in which source code is released under a license in which a copyright holder grants users the right to use, study, change, and distribute the software to anyone and for any purpose. — [Wikipedia](https://en.wikipedia.org/wiki/Open-source_software).*
+> *__Open Source Software__ is a type of computer software in which source code is released under a license in which a copyright holder grants users the right to use, study, change, and distribute the software to anyone and for any purpose. — [Wikipedia](https://en.wikipedia.org/wiki/Open-source_software).*
 
 ## Contributing
 
