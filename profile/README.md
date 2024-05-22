@@ -3,10 +3,6 @@
 </div>
 <br/>
 
-## Resources
-
-* [Contributing](#contributing)
-
 ## Contributing
 
 Feedback, bug reports, and feature requests are welcome:
