@@ -4,18 +4,17 @@
 
 <br/>
 
+- [Repositories](#repositories)
+	- [Go (Golang) Packages](#go-golang-packages)
+- [Contributing](#contributing)
+
 ## Repositories
 
-<details>
-	<summary> <strong>Go (Golang) Packages</strong></summary>
-
-<br/>
+### Go (Golang) Packages
 
 | Package               | Description               | Statistics     |
 |-----------------------|---------------------------|----------------|
 | [hq-go-retrier](https://github.com/hueristiq/hq-go-retrier) | A Go (Golang) package designed to manage retries for operations that might temporarily fail. It allows developers to customize how retries are handled using different strategies, such as increasing the wait time between each attempt - backoffs and jitters. | ![](https://img.shields.io/github/stars/hueristiq/hq-go-retrier?label=%20) |
-
-</details>
 
 ## Contributing
 
