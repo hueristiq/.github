@@ -4,6 +4,17 @@
 
 <br/>
 
+## Repositories
+
+<details>
+<summary>Go (Golang) Packages</summary>
+
+| Package  | Description |
+|----------|-------------|
+| [hq-go-retrier](https://github.com/hueristiq/hq-go-retrier) | A Go (Golang) package designed to manage retries for operations that might temporarily fail. It allows developers to customize how retries are handled using different strategies, such as increasing the wait time between each attempt - backoffs and jitters. |
+
+</details>
+
 ## Contributing
 
 Feedback, bug reports, and feature requests are welcome:
