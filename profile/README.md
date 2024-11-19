@@ -16,6 +16,13 @@
 |-----------------------|---------------------------|----------------|
 | [hq-go-retrier](https://github.com/hueristiq/hq-go-retrier) | A Go (Golang) package designed to manage retries for operations that might temporarily fail. It allows developers to customize how retries are handled using different strategies, such as increasing the wait time between each attempt - backoffs and jitters. | ![](https://img.shields.io/github/stars/hueristiq/hq-go-retrier?label=%20) |
 
+### X Utilities
+
+| Utility               | Description               | Statistics     |
+|-----------------------|---------------------------|----------------|
+| [xsubfind3r](https://github.com/hueristiq/xsubfind3r) | A command-line utility designed to help you discover subdomains for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interact directly with the target but instead gathers data that is already publicly available. | ![](https://img.shields.io/github/stars/hueristiq/xsubfind3r?label=%20) |
+| [xurlfind3r](https://github.com/hueristiq/xurlfind3r) | A command-line utility designed to help you discover URLs for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interact directly with the target but instead gathers data that is already publicly available. | ![](https://img.shields.io/github/stars/hueristiq/xurlfind3r?label=%20) |
+
 ## Contributing
 
 Feedback, bug reports, and feature requests are welcome:
