@@ -6,6 +6,7 @@
 
 - [Repositories](#repositories)
 	- [Go (Golang) Packages](#go-golang-packages)
+	- [X Utilities](#x-utilities)
 - [Contributing](#contributing)
 
 ## Repositories
