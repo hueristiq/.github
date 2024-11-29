@@ -15,9 +15,9 @@
 
 | Package               | Description               | Statistics     |
 |-----------------------|---------------------------|----------------|
-| [hq-go-http](https://github.com/hueristiq/hq-go-http) | A Go (Golang) HTTP client package, designed for robust web communication. It is built with retry policies, digest authentication support, and automatic fallback to HTTP/2, offering a highly resilient solution for making HTTP requests. | ![](https://img.shields.io/github/stars/hueristiq/hq-go-http?label=%20) |
+| [hq-go-http](https://github.com/hueristiq/hq-go-http) | A Go (Golang) HTTP client package for robust web communication. It is built with retry policies, digest authentication support, and automatic fallback to HTTP/2, offering a highly resilient solution for making HTTP requests. | ![](https://img.shields.io/github/stars/hueristiq/hq-go-http?label=%20) |
 | [hq-go-url](https://github.com/hueristiq/hq-go-url) | A Go (Golang) package designed for extracting, parsing, and manipulating URLs with ease. This library is useful for developers who need to work with URLs in a structured way. | ![](https://img.shields.io/github/stars/hueristiq/hq-go-url?label=%20) |
-| [hq-go-retrier](https://github.com/hueristiq/hq-go-retrier) | A Go (Golang) package designed to manage retries for operations that might temporarily fail. It allows developers to customize how retries are handled using different strategies, such as increasing the wait time between each attempt - backoffs and jitters. | ![](https://img.shields.io/github/stars/hueristiq/hq-go-retrier?label=%20) |
+| [hq-go-retrier](https://github.com/hueristiq/hq-go-retrier) | A Go (Golang) package for managing retries for operations that might temporarily fail. It allows developers to customize how retries are handled using different strategies, such as increasing the wait time between each attempt - backoffs and jitters. | ![](https://img.shields.io/github/stars/hueristiq/hq-go-retrier?label=%20) |
 
 ### X Utilities
 
