@@ -23,8 +23,8 @@
 
 | Utility               | Description               | Statistics     |
 |-----------------------|---------------------------|----------------|
-| [xsubfind3r](https://github.com/hueristiq/xsubfind3r) | A command-line utility designed to help you discover subdomains for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interact directly with the target but instead gathers data that is already publicly available. | ![](https://img.shields.io/github/stars/hueristiq/xsubfind3r?label=%20) |
-| [xurlfind3r](https://github.com/hueristiq/xurlfind3r) | A command-line utility designed to help you discover URLs for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interact directly with the target but instead gathers data that is already publicly available. | ![](https://img.shields.io/github/stars/hueristiq/xurlfind3r?label=%20) |
+| [xsubfind3r](https://github.com/hueristiq/xsubfind3r) | A command-line utility designed to discover subdomains for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interact directly with the target but instead gathers data that is already publicly available. | ![](https://img.shields.io/github/stars/hueristiq/xsubfind3r?label=%20) |
+| [xurlfind3r](https://github.com/hueristiq/xurlfind3r) | A command-line utility designed to discover URLs for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interact directly with the target but instead gathers data that is already publicly available. | ![](https://img.shields.io/github/stars/hueristiq/xurlfind3r?label=%20) |
 
 ## Contributing
 
